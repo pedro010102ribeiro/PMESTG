@@ -1,0 +1,133 @@
+{
+  "nome": "ESTG",
+  "cursos": [
+    {
+      "nome": "Engenharia de Redes e Sistemas de Computadores",
+      "empresas": [
+        {
+          "id": 1,
+          "nome": "NetWorkPro",
+          "descricao": "Soluções avançadas em redes.",
+          "email": "networkpro@example.com",
+          "telefone": "123321123",
+          "morada": "Rua das Redes, 45, Viana do Castelo",
+          "coordenadas": "41.6930, -8.8440"
+        },
+        {
+          "id": 2,
+          "nome": "SysConnect",
+          "descricao": "Conectividade de sistemas e segurança.",
+          "email": "sysconnect@example.com",
+          "telefone": "987654321",
+          "morada": "Av. da Tecnologia, 78, Viana do Castelo",
+          "coordenadas": "41.6931, -8.8441"
+        },
+        {
+          "id": 3,
+          "nome": "TechInfra",
+          "descricao": "Infraestruturas tecnológicas.",
+          "email": "techinfra@example.com",
+          "telefone": "654987321",
+          "morada": "Praça do Saber, 90, Viana do Castelo",
+          "coordenadas": "41.6932, -8.8442"
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Informática",
+      "empresas": [
+        {
+          "id": 4,
+          "nome": "CodeWorks",
+          "descricao": "Desenvolvimento de software de alta qualidade.",
+          "email": "codeworks@example.com",
+          "telefone": "789456123",
+          "morada": "Rua do Código, 99, Viana do Castelo",
+          "coordenadas": "41.6933, -8.8443"
+        },
+        {
+          "id": 5,
+          "nome": "SoftSolutions",
+          "descricao": "Soluções de software e consultoria.",
+          "email": "softsolutions@example.com",
+          "telefone": "456789321",
+          "morada": "Av. dos Sistemas, 88, Viana do Castelo",
+          "coordenadas": "41.6934, -8.8444"
+        },
+        {
+          "id": 6,
+          "nome": "TechFlow",
+          "descricao": "Automação e software empresarial.",
+          "email": "techflow@example.com",
+          "telefone": "321654987",
+          "morada": "Praça Tech, 77, Viana do Castelo",
+          "coordenadas": "41.6935, -8.8445"
+        }
+      ]
+    },
+    {
+      "nome": "Gestão",
+      "empresas": [
+        {
+          "id": 7,
+          "nome": "BizGrow",
+          "descricao": "Consultoria de gestão empresarial.",
+          "email": "bizgrow@example.com",
+          "telefone": "321789654",
+          "morada": "Rua dos Negócios, 33, Viana do Castelo",
+          "coordenadas": "41.6936, -8.8446"
+        },
+        {
+          "id": 8,
+          "nome": "PlanMasters",
+          "descricao": "Planeamento estratégico.",
+          "email": "planmasters@example.com",
+          "telefone": "789123654",
+          "morada": "Av. do Planeamento, 55, Viana do Castelo",
+          "coordenadas": "41.6937, -8.8447"
+        },
+        {
+          "id": 9,
+          "nome": "ProfitWise",
+          "descricao": "Maximização de lucros e eficiência.",
+          "email": "profitwise@example.com",
+          "telefone": "123456789",
+          "morada": "Praça da Gestão, 20, Viana do Castelo",
+          "coordenadas": "41.6938, -8.8448"
+        }
+      ]
+    },
+    {
+      "nome": "Gastronomia e Artes Culinárias",
+      "empresas": [
+        {
+          "id": 10,
+          "nome": "GourmetPro",
+          "descricao": "Consultoria gastronômica.",
+          "email": "gourmetpro@example.com",
+          "telefone": "987123456",
+          "morada": "Rua dos Sabores, 88, Viana do Castelo",
+          "coordenadas": "41.6939, -8.8449"
+        },
+        {
+          "id": 11,
+          "nome": "ChefMasters",
+          "descricao": "Apoio e formação em gastronomia.",
+          "email": "chefmasters@example.com",
+          "telefone": "654789123",
+          "morada": "Av. das Cozinhas, 22, Viana do Castelo",
+          "coordenadas": "41.6940, -8.8450"
+        },
+        {
+          "id": 12,
+          "nome": "FlavorsTech",
+          "descricao": "Tecnologia para gastronomia.",
+          "email": "flavorstech@example.com",
+          "telefone": "321987654",
+          "morada": "Praça Gourmet, 11, Viana do Castelo",
+          "coordenadas": "41.6941, -8.8451"
+        }
+      ]
+    }
+  ]
+}
